@@ -1,0 +1,146 @@
+[
+  {
+    "product_id": 1,
+    "name": "Apple iPhone 15 Pro",
+    "image": "https://i.ibb.co.com/3Wrhky9/iphone16pro.jpg",
+    "price": 999,
+    "availability": "In Stock",
+    "category": "Phone",
+    "specifications": [
+      "Processor: A17 Bionic",
+      "Storage: 128GB/256GB/512GB/1TB",
+      "Display: 6.1-inch Super Retina XDR",
+      "Camera: 48MP main, 12MP ultra-wide"
+    ],
+    "rating": 4.8,
+    "description": "Powerful A17 chip, 48MP camera, and sleek titanium design."
+  },
+  {
+    "product_id": 2,
+    "name": "Samsung Galaxy S23 Ultra",
+    "image": "https://i.ibb.co.com/19cBYqt/galaxy.jpg",
+    "price": 1199,
+    "availability": "In Stock",
+    "category": "Phone",
+    "specifications": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Storage: 256GB/512GB/1TB",
+      "Display: 6.8-inch AMOLED, 120Hz",
+      "Camera: 200MP main, 10MP periscope telephoto"
+    ],
+    "rating": 4.7,
+    "description": "200MP camera, S Pen support, and a 120Hz AMOLED display."
+  },
+  {
+    "product_id": 3,
+    "name": "Apple MacBook Pro 16-inch",
+    "image": "https://i.ibb.co.com/0YYJnsv/macBook.jpg",
+    "price": 2499,
+    "availability": "In Stock",
+    "category": "Laptop",
+    "specifications": [
+      "Processor: M2 Pro",
+      "Storage: 512GB/1TB/2TB SSD",
+      "Display: 16-inch Liquid Retina XDR",
+      "Battery: 21 hours"
+    ],
+    "rating": 4.9,
+    "description": "M2 Pro chip, Liquid Retina XDR, and 21 hours of battery life."
+  },
+  {
+    "product_id": 4,
+    "name": "Dell XPS 15",
+    "image": "https://i.ibb.co.com/KqL5nKb/laptop-dell.jpg",
+    "price": 1899,
+    "availability": "Not in Stock",
+    "category": "Laptop",
+    "specifications": [
+      "Processor: Intel Core i7-12700H",
+      "Storage: 512GB SSD",
+      "Display: 15.6-inch OLED 3.5K",
+      "Graphics: NVIDIA GeForce RTX 3050 Ti"
+    ],
+    "rating": 4.5,
+    "description": "Intel i7, OLED display, and NVIDIA GeForce RTX 3050 Ti."
+  },
+  {
+    "product_id": 5,
+    "name": "Apple Watch Series 9",
+    "image": "https://i.ibb.co.com/k3Y4p3D/Watchapple.jpg",
+    "price": 399,
+    "availability": "In Stock",
+    "category": "Smart Watch",
+    "specifications": [
+      "Processor: S9 Chip",
+      "Display: Always-On Retina",
+      "Battery: 18 hours",
+      "Water Resistance: 50m"
+    ],
+    "rating": 4.6,
+    "description": "Smartwatch with health features, crash detection, and Siri."
+  },
+  {
+    "product_id": 6,
+    "name": "Samsung Galaxy Watch 6",
+    "image": "https://i.ibb.co.com/sgRv4yX/galaxywatch.jpg",
+    "price": 349,
+    "availability": "In Stock",
+    "category": "Smart Watch",
+    "specifications": [
+      "Processor: Exynos W930",
+      "Display: 1.5-inch AMOLED",
+      "Battery: 40 hours",
+      "Water Resistance: 5ATM"
+    ],
+    "rating": 4.5,
+    "description": "Sleek design with sleep tracking and 40 hours of battery."
+  },
+  {
+    "product_id": 7,
+    "name": "Sony WH-1000XM5 Headphones",
+    "image": "https://i.ibb.co.com/VDzMz9c/accessories-headphone-sony.jpg",
+    "price": 399,
+    "availability": "In Stock",
+    "category": "Accessories",
+    "specifications": [
+      "Battery: 30 hours",
+      "Connectivity: Bluetooth 5.2",
+      "Noise Cancellation: Advanced Noise Cancelling",
+      "Weight: 250g"
+    ],
+    "rating": 4.9,
+    "description": "Great sound, advanced noise cancellation, and 30-hour battery."
+  },
+  {
+    "product_id": 8,
+    "name": "Logitech MX Master 3S Mouse",
+    "image": "https://i.ibb.co.com/7bFtTRy/accessories-mouse.webp",
+    "price": 99,
+    "availability": "In Stock",
+    "category": "Accessories",
+    "specifications": [
+      "DPI: 8000",
+      "Connectivity: Bluetooth + USB Receiver",
+      "Battery: 70 days",
+      "Buttons: 7 customizable buttons"
+    ],
+    "rating": 4.8,
+    "description": "Ergonomic mouse with customizable buttons and 70-day battery."
+  },
+  {
+    "product_id": 9,
+    "name": "Microsoft Surface Laptop 5",
+    "image": "https://i.ibb.co.com/pxsD6Gp/laptop.jpg",
+    "price": 1299,
+    "availability": "Not in Stock",
+    "category": "Laptop",
+    "specifications": [
+      "Processor: Intel Core i5/i7",
+      "Storage: 256GB/512GB SSD",
+      "Display: 13.5-inch PixelSense",
+      "Battery: 18 hours"
+    ],
+    "rating": 4.4,
+    "description": "Sleek design with powerful performance and 18 hours of battery."
+  }
+]
